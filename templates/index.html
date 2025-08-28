@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease Prediction</title>
+</head>
+<body>
+    <h2>Disease Prediction System</h2>
+    <form method="POST">
+        <label>Enter symptoms (comma separated):</label><br>
+        <input type="text" name="symptoms" size="80" placeholder="e.g. itching, joint_pain, vomiting"><br><br>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+        <h3>Results:</h3>
+        <p>Random Forest: {{ prediction["Random Forest Prediction"] }}</p>
+        <p>Naive Bayes: {{ prediction["Naive Bayes Prediction"] }}</p>
+        <p>SVM: {{ prediction["SVM Prediction"] }}</p>
+        <p><b>Final Prediction: {{ prediction["Final Prediction"] }}</b></p>
+    {% endif %}
+</body>
+</html>

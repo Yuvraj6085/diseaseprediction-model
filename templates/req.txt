@@ -1,0 +1,98 @@
+1
+itching,skin_rash,continuous_sneezing
+Results:
+Random Forest: Dengue
+
+Naive Bayes: Impetigo
+
+SVM: Impetigo
+
+Final Prediction: Impetigo
+
+2 joint_pain,stomach_pain,acidity
+Results:
+Random Forest: Vertigo (Benign paroxysmal Positional Vertigo)
+
+Naive Bayes: Impetigo
+
+SVM: Vertigo (Benign paroxysmal Positional Vertigo)
+
+Final Prediction: Vertigo (Benign paroxysmal Positional Vertigo)
+
+3 chills,cough,high_fever,headache
+Results:
+Random Forest: Hepatitis D
+
+Naive Bayes: Bronchial Asthma
+
+SVM: Bronchial Asthma
+
+Final Prediction: Bronchial Asthma
+
+4 fatigue,weight_loss,sunken_eyes
+Results:
+Random Forest: Urinary tract infection
+
+Naive Bayes: Urinary tract infection
+
+SVM: Urinary tract infection
+
+Final Prediction: Urinary tract infection
+
+5 nausea,vomiting,diarrhoea
+Results:
+Random Forest: Vertigo (Benign paroxysmal Positional Vertigo)
+
+Naive Bayes: Heart attack
+
+SVM: Heart attack
+
+Final Prediction: Heart attack
+
+6 breathlessness,sweating,chest_pain
+Results:
+Random Forest: Heart attack
+
+Naive Bayes: Impetigo
+
+SVM: Impetigo
+
+Final Prediction: Impetigo
+
+7 yellowish_skin,dark_urine,loss_of_appetite
+Results:
+Random Forest: Heart attack
+
+Naive Bayes: Impetigo
+
+SVM: Impetigo
+
+Final Prediction: Impetigo
+
+8 malaise,phlegm,chest_pain,fast_heart_rate
+Results:
+Random Forest: Heart attack
+
+Naive Bayes: Impetigo
+
+SVM: Impetigo
+
+Final Prediction: Impetigo
+
+9 abdominal_pain,loss_of_appetite,indigestion
+Random Forest: Heart attack
+
+Naive Bayes: Impetigo
+
+SVM: Impetigo
+
+Final Prediction: Impetigo
+10 itching,skin_rash,fever,swelling_of_stomach
+Results:
+Random Forest: Dimorphic hemorrhoids(piles)
+
+Naive Bayes: Urinary tract infection
+
+SVM: Impetigo
+
+Final Prediction: Dimorphic hemorrhoids(piles)

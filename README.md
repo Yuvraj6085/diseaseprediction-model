@@ -1,1 +1,1 @@
-# diseaseprediction-model
+# diseaseprediction
